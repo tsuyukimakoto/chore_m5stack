@@ -1,0 +1,2 @@
+pyobjc==6.1
+git+ssh://git@github.com/adafruit/Adafruit_Python_BluefruitLE.git@34fc6f596371b961628369d78ce836950514062f#egg=Adafruit_BluefruitLE
