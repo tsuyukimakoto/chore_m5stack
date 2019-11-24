@@ -1,0 +1,34 @@
+{
+    "env": {
+        "ArduinoDocumentPath": "/Users/makoto/Library/Arduino15",
+        "ArduinoLibraryPath": "/Users/makoto/Documents/Arduino"
+    },
+    "configurations": [{
+        "name": "Mac",
+        "includePath": [
+            "${ArduinoDocumentPath}/packages/esp8266/tools/**",
+            "${ArduinoDocumentPath}/packages/esp8266/hardware/esp8266/2.6.1/**",
+            "${ArduinoDocumentPath}/packages/esp32/tools/**",
+            "${ArduinoDocumentPath}/packages/esp32/hardware/esp32/1.0.3/**",
+            "${workspaceFolder}/**",
+            "/Users/makoto/Library/Arduino15/packages/esp32/hardware/esp32/1.0.3/**",
+            "/Users/makoto/Library/Arduino15/packages/esp32/tools/**"
+        ],
+        "defines": [],
+        "macFrameworkPath": [
+            "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+        ],
+        "compilerPath": "/usr/bin/clang",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "clang-x64",
+        "browse": {
+            "path": [
+                "${ArduinoDocumentPath}/",
+                "${ArduinoLibraryPath}"
+            ]
+        },
+        "forcedInclude": []
+    }],
+    "version": 4
+}

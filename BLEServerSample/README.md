@@ -1,0 +1,2 @@
+- Bluetooth LE: http://marchan.e5.valueserver.jp/cabin/comp/jbox/arc212/doc21201.html
+- Adafruit_BluefruitLE and Python3: https://github.com/adafruit/Adafruit_Python_BluefruitLE/pull/38
